@@ -1,0 +1,39 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>BottomNavigation on Lesley&#39;s Blog</title>
+    <link>https://lesleyoui.github.io/tags/bottomnavigation/</link>
+    <description>Recent content in BottomNavigation on Lesley&#39;s Blog</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <lastBuildDate>Wed, 23 Nov 2022 10:07:47 +0600</lastBuildDate><atom:link href="https://lesleyoui.github.io/tags/bottomnavigation/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>綜所稅Demo</title>
+      <link>https://lesleyoui.github.io/blog/post-taxdemo/</link>
+      <pubDate>Wed, 23 Nov 2022 10:07:47 +0600</pubDate>
+      
+      <guid>https://lesleyoui.github.io/blog/post-taxdemo/</guid>
+      <description>2022年綜所稅使用電子支付 掃描帳單上的QRcode
+由後台跟財經資訊單位取得資訊後，判斷是否為本人繳納，若是則顯示繳稅金額，否則隱藏
+使用者輸入身分證字號後，可進入付款頁面
+使用者可以再付款頁面自行輸入金額(若為本人繳納，會先填入應繳金額)
+下一頁會進入付款確認頁，請使用者確認本次交易的詳細資訊
+再次確認後進入安全密碼頁，輸入密碼時無法錄製螢幕，所以影片會有一小段黑屏，實際使用不會出現黑屏
+交易完成頁，文字有藍色底線的部分可點擊直接進入網站或撥打電話。下方有交易明細可以收合
+進入交易紀錄，就可以看見剛完成的這筆交易，點擊即可查閱明細</description>
+    </item>
+    
+    <item>
+      <title>首頁Demo</title>
+      <link>https://lesleyoui.github.io/blog/post-homepagedemo/</link>
+      <pubDate>Wed, 23 Nov 2022 10:07:47 +0600</pubDate>
+      
+      <guid>https://lesleyoui.github.io/blog/post-homepagedemo/</guid>
+      <description>icashPay 首頁 主要使用元件
+BottomNavigation / ViewPager / RecyclerView
+上方廣套Banner自動輪播(無使用第三方套件)
+中間功能快捷鍵可由後台即時控制要顯示的功能 並且可以依數量自動調整頁數</description>
+    </item>
+    
+  </channel>
+</rss>

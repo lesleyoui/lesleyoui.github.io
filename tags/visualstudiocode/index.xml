@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>VisualStudioCode on Lesley&#39;s Blog</title>
+    <link>https://lesleyoui.github.io/tags/visualstudiocode/</link>
+    <description>Recent content in VisualStudioCode on Lesley&#39;s Blog</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <lastBuildDate>Fri, 23 Dec 2022 10:07:47 +0600</lastBuildDate><atom:link href="https://lesleyoui.github.io/tags/visualstudiocode/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>[筆記]HUGO新文章發布流程</title>
+      <link>https://lesleyoui.github.io/blog/post-newpostnote/</link>
+      <pubDate>Fri, 23 Dec 2022 10:07:47 +0600</pubDate>
+      
+      <guid>https://lesleyoui.github.io/blog/post-newpostnote/</guid>
+      <description>這篇個人筆記
+針對運用Hugo發佈新文章在github個人網站上
+網站架設過程是參考線上課程 Github免費架站術
+廢話不多說 直接進入步驟
+在資料夾上點擊右鍵 選擇開啟終端機 在終端機輸入 hugo server 按enter之後看到available表示成功 就可以截取後面那一串網址 http://localhost:1313/ 把網址貼到瀏覽器上即可看到網頁(本地端而已 非發布成功) 打開VSCode(VisualStudioCode) 找到blog資料夾，然後隨便找一篇.</description>
+    </item>
+    
+  </channel>
+</rss>

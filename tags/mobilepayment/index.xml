@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>MobilePayment on Lesley&#39;s Blog</title>
+    <link>https://lesleyoui.github.io/tags/mobilepayment/</link>
+    <description>Recent content in MobilePayment on Lesley&#39;s Blog</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <lastBuildDate>Thu, 29 Dec 2022 10:07:47 +0600</lastBuildDate><atom:link href="https://lesleyoui.github.io/tags/mobilepayment/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>icashPay改版比較</title>
+      <link>https://lesleyoui.github.io/blog/post-reversion/</link>
+      <pubDate>Thu, 29 Dec 2022 10:07:47 +0600</pubDate>
+      
+      <guid>https://lesleyoui.github.io/blog/post-reversion/</guid>
+      <description>icashPay改版前後對照圖
+首頁比較 個人頁比較 付款頁比較 通訊錄頁比較 加好友頁比較 轉帳頁比較 儲值頁比較 </description>
+    </item>
+    
+  </channel>
+</rss>

@@ -8,12 +8,63 @@
     <language>en-us</language>
     <lastBuildDate>Tue, 29 Oct 2019 13:49:23 +0600</lastBuildDate><atom:link href="https://lesleyoui.github.io/blog/index.xml" rel="self" type="application/rss+xml" />
     <item>
+      <title>icashPay改版比較</title>
+      <link>https://lesleyoui.github.io/blog/post-reversion/</link>
+      <pubDate>Thu, 29 Dec 2022 10:07:47 +0600</pubDate>
+      
+      <guid>https://lesleyoui.github.io/blog/post-reversion/</guid>
+      <description>icashPay改版前後對照圖
+首頁比較 個人頁比較 付款頁比較 通訊錄頁比較 加好友頁比較 轉帳頁比較 儲值頁比較 </description>
+    </item>
+    
+    <item>
+      <title>[筆記]HUGO新文章發布流程</title>
+      <link>https://lesleyoui.github.io/blog/post-newpostnote/</link>
+      <pubDate>Fri, 23 Dec 2022 10:07:47 +0600</pubDate>
+      
+      <guid>https://lesleyoui.github.io/blog/post-newpostnote/</guid>
+      <description>這篇個人筆記
+針對運用Hugo發佈新文章在github個人網站上
+網站架設過程是參考線上課程 Github免費架站術
+廢話不多說 直接進入步驟
+在資料夾上點擊右鍵 選擇開啟終端機 在終端機輸入 hugo server 按enter之後看到available表示成功 就可以截取後面那一串網址 http://localhost:1313/ 把網址貼到瀏覽器上即可看到網頁(本地端而已 非發布成功) 打開VSCode(VisualStudioCode) 找到blog資料夾，然後隨便找一篇.</description>
+    </item>
+    
+    <item>
       <title>My Concentrate Vibe</title>
       <link>https://lesleyoui.github.io/blog/post-12/</link>
       <pubDate>Wed, 23 Nov 2022 10:07:47 +0600</pubDate>
       
       <guid>https://lesleyoui.github.io/blog/post-12/</guid>
       <description>Youtube video </description>
+    </item>
+    
+    <item>
+      <title>綜所稅Demo</title>
+      <link>https://lesleyoui.github.io/blog/post-taxdemo/</link>
+      <pubDate>Wed, 23 Nov 2022 10:07:47 +0600</pubDate>
+      
+      <guid>https://lesleyoui.github.io/blog/post-taxdemo/</guid>
+      <description>2022年綜所稅使用電子支付 掃描帳單上的QRcode
+由後台跟財經資訊單位取得資訊後，判斷是否為本人繳納，若是則顯示繳稅金額，否則隱藏
+使用者輸入身分證字號後，可進入付款頁面
+使用者可以再付款頁面自行輸入金額(若為本人繳納，會先填入應繳金額)
+下一頁會進入付款確認頁，請使用者確認本次交易的詳細資訊
+再次確認後進入安全密碼頁，輸入密碼時無法錄製螢幕，所以影片會有一小段黑屏，實際使用不會出現黑屏
+交易完成頁，文字有藍色底線的部分可點擊直接進入網站或撥打電話。下方有交易明細可以收合
+進入交易紀錄，就可以看見剛完成的這筆交易，點擊即可查閱明細</description>
+    </item>
+    
+    <item>
+      <title>首頁Demo</title>
+      <link>https://lesleyoui.github.io/blog/post-homepagedemo/</link>
+      <pubDate>Wed, 23 Nov 2022 10:07:47 +0600</pubDate>
+      
+      <guid>https://lesleyoui.github.io/blog/post-homepagedemo/</guid>
+      <description>icashPay 首頁 主要使用元件
+BottomNavigation / ViewPager / RecyclerView
+上方廣套Banner自動輪播(無使用第三方套件)
+中間功能快捷鍵可由後台即時控制要顯示的功能 並且可以依數量自動調整頁數</description>
     </item>
     
     <item>

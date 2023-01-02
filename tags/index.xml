@@ -6,7 +6,70 @@
     <description>Recent content in Tags on Lesley&#39;s Blog</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
-    <lastBuildDate>Wed, 23 Nov 2022 10:07:47 +0600</lastBuildDate><atom:link href="https://lesleyoui.github.io/tags/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Thu, 29 Dec 2022 10:07:47 +0600</lastBuildDate><atom:link href="https://lesleyoui.github.io/tags/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>AppDevelope</title>
+      <link>https://lesleyoui.github.io/tags/appdevelope/</link>
+      <pubDate>Thu, 29 Dec 2022 10:07:47 +0600</pubDate>
+      
+      <guid>https://lesleyoui.github.io/tags/appdevelope/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>AppReversion</title>
+      <link>https://lesleyoui.github.io/tags/appreversion/</link>
+      <pubDate>Thu, 29 Dec 2022 10:07:47 +0600</pubDate>
+      
+      <guid>https://lesleyoui.github.io/tags/appreversion/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>MobilePayment</title>
+      <link>https://lesleyoui.github.io/tags/mobilepayment/</link>
+      <pubDate>Thu, 29 Dec 2022 10:07:47 +0600</pubDate>
+      
+      <guid>https://lesleyoui.github.io/tags/mobilepayment/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Hugo</title>
+      <link>https://lesleyoui.github.io/tags/hugo/</link>
+      <pubDate>Fri, 23 Dec 2022 10:07:47 +0600</pubDate>
+      
+      <guid>https://lesleyoui.github.io/tags/hugo/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>VisualStudioCode</title>
+      <link>https://lesleyoui.github.io/tags/visualstudiocode/</link>
+      <pubDate>Fri, 23 Dec 2022 10:07:47 +0600</pubDate>
+      
+      <guid>https://lesleyoui.github.io/tags/visualstudiocode/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Web</title>
+      <link>https://lesleyoui.github.io/tags/web/</link>
+      <pubDate>Fri, 23 Dec 2022 10:07:47 +0600</pubDate>
+      
+      <guid>https://lesleyoui.github.io/tags/web/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>BottomNavigation</title>
+      <link>https://lesleyoui.github.io/tags/bottomnavigation/</link>
+      <pubDate>Wed, 23 Nov 2022 10:07:47 +0600</pubDate>
+      
+      <guid>https://lesleyoui.github.io/tags/bottomnavigation/</guid>
+      <description></description>
+    </item>
+    
     <item>
       <title>Calm</title>
       <link>https://lesleyoui.github.io/tags/calm/</link>
@@ -31,6 +94,24 @@
       <pubDate>Wed, 23 Nov 2022 10:07:47 +0600</pubDate>
       
       <guid>https://lesleyoui.github.io/tags/music/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>RecyclerView</title>
+      <link>https://lesleyoui.github.io/tags/recyclerview/</link>
+      <pubDate>Wed, 23 Nov 2022 10:07:47 +0600</pubDate>
+      
+      <guid>https://lesleyoui.github.io/tags/recyclerview/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>ViewPager</title>
+      <link>https://lesleyoui.github.io/tags/viewpager/</link>
+      <pubDate>Wed, 23 Nov 2022 10:07:47 +0600</pubDate>
+      
+      <guid>https://lesleyoui.github.io/tags/viewpager/</guid>
       <description></description>
     </item>
     
